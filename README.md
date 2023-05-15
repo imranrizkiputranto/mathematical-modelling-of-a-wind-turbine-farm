@@ -1,1 +1,1 @@
-# mathematical-modelling-of-a-wind-turbine-farm
+# Mathematical Modelling of a Wind Turbine Farm
